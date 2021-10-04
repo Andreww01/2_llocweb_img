@@ -1,2 +1,2 @@
 # 2_llocweb_img
-Pàgines html, enllasos
+Pàgines html, enllaços
